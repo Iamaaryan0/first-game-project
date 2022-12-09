@@ -162,6 +162,8 @@ obj.display(b, size);
 else   
 {  
 System.out.println("There is no solution available.");  
-}  
-}  
+}
+else  
+}
+System.out.println("please enter correct Statement.")  
 }  
